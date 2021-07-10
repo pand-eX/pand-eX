@@ -6,7 +6,6 @@
 
 
 
-- 🌱 I’m currently learning **Hadoop, Spark, Docker, SQL, NoSQL, Building Data Warehouse, Building Data Lake**
 
 - 👯 I’m looking to collaborate on **Data Engineering projects**
 
