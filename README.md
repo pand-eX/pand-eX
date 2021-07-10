@@ -1,7 +1,7 @@
 <h1 align="center"> 👋! I'm Henrique M Castro </h1>
 <h3 align="center"> A data engineer. </h3>
 
-##### I am deepening my studies in data engineering, big data, distributed computing, clean code, design patterns, systems architecture and data-driven projects.
+##### I am deepening my studies in Design and Implementation of Data Warehouses, big data, Machine Learning and AI in Distributed Environments, security and high data availability, cloud computing, Data Lake - Design, Project and Integration, Analytics, Visualization, Reporting and Decision Making with Big Data and data-driven projects.
 
 
 
