@@ -1,17 +1,12 @@
-<h1 align="center"> Hi there 👋! I'm Henrique M Castro </h1>
+<h1 align="center"> 👋! I'm Henrique M Castro </h1>
 <h3 align="center"> A data engineer. </h3>
 
 ##### I am deepening my studies in data engineering, big data, distributed computing, clean code, design patterns, systems architecture and data-driven projects.
 
 
 
-<!--
-**pand-eX/pand-eX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning **Hadoop, Spark, Docker, SQL, NoSQL, Build Data Warehouse, Build Data Lake**
+- 🌱 I’m currently learning **Hadoop, Spark, Docker, SQL, NoSQL, Building Data Warehouse, Building Data Lake**
 
 - 👯 I’m looking to collaborate on **Data Engineering projects**
 
@@ -44,4 +39,4 @@ Here are some ideas to get you started:
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
--->
+
